@@ -9,7 +9,7 @@ Author: maxalex
 #### Training/Learning Phase
 #### Test Set
 #### Generalization
-#### Preprocess / Feature Extraction
+#### Preprocessing / Feature Extraction
 #### Supervised Learning
 #### Classification
 #### Regression
